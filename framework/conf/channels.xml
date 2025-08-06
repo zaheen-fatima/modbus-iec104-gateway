@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+  <driver id="iec60870">
+    <device id="iec_device">
+
+
+      <deviceAddress>ca=1;p=2404;h=127.0.0.1</deviceAddress>
+      <settings>mft=30000;t0=30000;t1=15000;t2=10000;t3=20000</settings>
+
+      <channel id="iec_in">
+        <channelAddress>ca=1;t=3;ioa=100</channelAddress>
+        <valueType>INTEGER</valueType>
+        <serverlMapping id="modbus">HOLDING_REGISTERS:1000:INTEGER</serverlMapping>
+
+        <samplingInterval>2000</samplingInterval>
+        <loggingInterval>5000</loggingInterval>
+      </channel>
+
+      <channel id="iec_out">
+        <channelAddress>ca=1;t=49;ioa=200</channelAddress>
+        <serverMapping id="modbus">HOLDING_REGISTERS:1002:INTEGER</serverMapping>
+
+        <valueType>INTEGER</valueType>
+        <samplingInterval>2000</samplingInterval>
+        <loggingInterval>5000</loggingInterval>
+      </channel>
+
+    </device>
+  </driver>
+</configuration>

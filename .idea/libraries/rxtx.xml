@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rxtx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/rxtx/rxtx-2.2pre2-bins.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dependencies/rxtx/jrxtx-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="libs-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-datalogger-mqtt-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-channelaccesstool-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-userconfigurator-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-amqp-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-datalogger-amqp-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-knx-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-rest1-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-mqtt-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-app-simpledemo-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-simpledemovisualisation-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-math-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-server-restws-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-iec61850-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-filePersistence-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-amqp-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-datalogger-ascii-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-modbus-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-spi-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-csv-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-ehz-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-wmbus-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-mbus-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-core-api-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-base-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-snmp-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-dataexporter-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-iec62056p21-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-rest-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-core-datamanager-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-datalogger-slotsdb-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-osgi-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-dataplotter-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-datalogger-sql-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-aggregator-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-ssl-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-server-iec61850-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-iec60870-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-channelconfigurator-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-webui-mediaviewer-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-lib-parser-openmuc-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-server-modbus-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-core-spi-0.20.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs-all/openmuc-driver-mqtt-0.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
